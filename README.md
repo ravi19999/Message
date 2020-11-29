@@ -1,3 +1,3 @@
 # Message
 - Share secret messages.
-- https://message.jastosuko.vercel.app
+- Hosted at https://message.jastosuko.vercel.app
